@@ -3,7 +3,7 @@ LinkBytes is a url Shortner made using NEXTJS and MongoDB.
 
 ---
 
-## Snspshots
+## 🖼️Snapshots
 
 ![Home Page](public/ss1.png)
 
