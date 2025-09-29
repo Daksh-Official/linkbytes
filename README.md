@@ -1,5 +1,6 @@
 # 🔗LinkBytes
 LinkBytes is a url Shortner made using NEXTJS and MongoDB.
+Live Deployment : https://linkbytes-iota.vercel.app/
 
 ---
 
