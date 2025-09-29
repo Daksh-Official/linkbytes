@@ -3,7 +3,7 @@ import Link from 'next/link';
 import React from 'react'
 import { useState } from 'react'
 
-const shorten = () => {
+const Shorten = () => {
   const myheaders = new Headers();
   myheaders.append("Content-Type", "application/json");
 
@@ -63,4 +63,4 @@ const shorten = () => {
   )
 }
 
-export default shorten
+export default Shorten
