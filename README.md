@@ -6,9 +6,9 @@ Live Deployment : https://linkbytes-iota.vercel.app/
 
 ## 🖼️Snapshots
 
-![Home Page](public/ss1.png)
+![Home Page](https://github.com/Daksh-Official/linkbytes/blob/main/public/ss1.png?raw=true)
 
-![Login Page](public/ss2.png)
+![Login Page](https://github.com/Daksh-Official/linkbytes/blob/main/public/ss2.png?raw=true)
 
 ---
 
