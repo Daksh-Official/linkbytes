@@ -26,6 +26,9 @@ npm install
 yarn install
 ```
 ### 3. Setup Enviorment Variables in .env.local
+- MONGODB_URI=
+- NEXT_PUBLIC_URL =
+
 ### 4. Start the Server
 ```bash
 npm run dev
